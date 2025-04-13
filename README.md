@@ -30,31 +30,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="52"/>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="52"/>
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="52"/>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52"/>
@@ -65,36 +49,34 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="52"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="52"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="52"/>
 </p>
 <br>
 <h3 align="left">Projects:</h3>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="left">
-    <a href="https://github.com/MouradMahgoub/MailServer" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=MailServer&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=MailServer&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=MailServer&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/MouradMahgoub/Concurrency-Simulation" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Concurrency-Simulation&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Concurrency-Simulation&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Concurrency-Simulation&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/MouradMahgoub/Paint" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Paint&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Paint&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Paint&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/MouradMahgoub/Equator" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Equator&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Equator&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Equator&description_lines_count=3" /></picture></a>&nbsp;
-<a href="https://github.com/MouradMahgoub/LeetCode-Problems" target="blank"><picture> 
+    <a href="https://github.com/MouradMahgoub/Mail-Server" target="blank"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Mail-Server&description_lines_count=3&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Mail-Server&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Mail-Server&description_lines_count=3" /></picture></a>&nbsp;
+    <a href="https://github.com/MouradMahgoub/DewanDB" target="blank"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=DewanDB&description_lines_count=3&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=DewanDB&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=DewanDB&description_lines_count=3" /></picture></a>&nbsp;
+    <a href="https://https://github.com/MouradMahgoub/Producer-Simulation" target="blank"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Producer-Simulation&description_lines_count=3&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Producer-Simulation&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Producer-Simulation&description_lines_count=3" /></picture></a>&nbsp;
+    <a href="https://github.com/MouradMahgoub/ParkingSystem" target="blank"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=ParkingSystem&description_lines_count=3&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=ParkingSystem&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=ParkingSystem&description_lines_count=3" /></picture></a>&nbsp;
+    <a href="https://https://github.com/MouradMahgoub/CSEx61-dockerized-pintos" target="blank"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=CSEx61-dockerized-pintos&description_lines_count=3&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=CSEx61-dockerized-pintos&description_lines_count=3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=CSEx61-dockerized-pintos&description_lines_count=3" /></picture></a>&nbsp;
+    <a href="https://github.com/MouradMahgoub/LeetCode-Problems" target="blank"><picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=LeetCode-Problems&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=LeetCode-Problems&description_lines_count=3" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=LeetCode-Problems&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/MouradMahgoub/SimpleCalculator" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=SimpleCalculator&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=SimpleCalculator&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=SimpleCalculator&description_lines_count=3" /></picture></a>&nbsp;
 </p>
 <br>
