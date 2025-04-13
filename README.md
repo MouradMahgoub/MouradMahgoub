@@ -15,22 +15,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/AbdElRahmanOsama2" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /></a>
+    <a href="https://linkedin.com/in/mourad-mahgoub-b30951255" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /></a>
     <!-- Gmail -->
-    <a href="mailto:bodyusama207@gmail.com" target="blank"><img src="https://img.icons8.com/color/100/gmail-new.png" height="40" alt="gmail logo" /></a>
-    <!-- Codeforces -->
-    <a href="https://codeforces.com/profile/AbdElRahmanOsama2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="AbdElRahmanOsama2" height="40" /></a>
-    <!-- LeetCode -->
-    <a href="https://www.leetcode.com/AbdELRahman182" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="AbdELRahman182" height="40" /></a>
-    <!-- Hackerrank -->
-    <a href="https://www.hackerrank.com/bodyusama207" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="bodyusama207" height="40" /></a>
-    <!-- Facebook -->
-    <a href="https://fb.com/abdelrahman.osama.218" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="abdelrahman.osama.218" height="40" /></a>
-    <!-- Instagram -->
-    <a href="https://instagram.com/abd.elrahman.osama" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="abd.elrahman.osama" height="40" /></a>
+    <a href="mailto:mouradmahgoub710@gmail.com" target="blank"><img src="https://img.icons8.com/color/100/gmail-new.png" height="40" alt="gmail logo" /></a>
 </p>
     <!-- Resume -->
-    <a href="https://flowcv.com/resume/ntrs97kou1" target="blank"><img src="https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=readdotcv&logoColor=white&color=black&labelColor=ec1c24" alt="abd.elrahman.osama" height="35" /></a>
+    <a href="https://drive.google.com/file/d/1qIRg1BpnxapNePDBcSoNalT1x0bXBLVe/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-EF3939?style=for-the-badge&logo=readdotcv&logoColor=white&color=black&labelColor=ec1c24" alt="abd.elrahman.osama" height="35" /></a>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
