@@ -108,30 +108,3 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=SimpleCalculator&description_lines_count=3" /></picture></a>&nbsp;
 </p>
 <br>
-<h3 align="left">Problem Solving:</h3>
-<p align="center">
-    <a href="https://codeforces.com/profile/AbdElRahmanOsama2"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="225" />
-            <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2" height="225" />
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=AbdElRahmanOsama2&theme=dark" height="225" /></picture></a>&nbsp;
-    <a href="https://www.leetcode.com/AbdElRahman182"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="225" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=light" height="225" />
-            <img src="https://leetcard.jacoblin.cool/AbdElRahman182?ext=heatmap&theme=dark" height="225" /></picture></a>&nbsp;
-    <a href="https://www.leetcode.com/AbdElRahman182"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=AbdElRahman182&theme=black&timestamp=1712145199" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=AbdElRahman182&theme=light&timestamp=1712145199" height="260" />
-            <img src="https://leetcode-badge-showcase.vercel.app/api?username=AbdElRahman182&theme=black&timestamp=1712145199" height="260" /></picture></a>
-</p>
-<div align="center">
-    <h3 align="center">Visitor's count :eyes:</h3>
-    <img src="https://profile-counter.glitch.me/MouradMahgoub/count.svg?"  />
-</div>
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MouradMahgoub/MouradMahgoub/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MouradMahgoub/MouradMahgoub/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MouradMahgoub/MouradMahgoub/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
