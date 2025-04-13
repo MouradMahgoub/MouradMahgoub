@@ -58,10 +58,6 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Mail-Server&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Mail-Server&description_lines_count=3" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Mail-Server&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://github.com/MouradMahgoub/DewanDB" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=DewanDB&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=DewanDB&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=DewanDB&description_lines_count=3" /></picture></a>&nbsp;
     <a href="https://https://github.com/MouradMahgoub/Producer-Simulation" target="blank"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Producer-Simulation&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=Producer-Simulation&description_lines_count=3" />
@@ -70,10 +66,6 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=ParkingSystem&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=ParkingSystem&description_lines_count=3" />
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=ParkingSystem&description_lines_count=3" /></picture></a>&nbsp;
-    <a href="https://https://github.com/MouradMahgoub/CSEx61-dockerized-pintos" target="blank"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=CSEx61-dockerized-pintos&description_lines_count=3&theme=dark" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=CSEx61-dockerized-pintos&description_lines_count=3" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=CSEx61-dockerized-pintos&description_lines_count=3" /></picture></a>&nbsp;
     <a href="https://github.com/MouradMahgoub/LeetCode-Problems" target="blank"><picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=LeetCode-Problems&description_lines_count=3&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MouradMahgoub&repo=LeetCode-Problems&description_lines_count=3" />
